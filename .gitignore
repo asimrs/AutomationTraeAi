@@ -1,1 +1,8 @@
 /A3T
+.env
+*.env
+__pycache__/
+*.pyc
+.DS_Store
+/screenshots
+/recordings
